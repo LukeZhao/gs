@@ -1,0 +1,12 @@
+12/19/2016
+	vxx/4200 have a limit and get rid of them when hitting target.
+	spy/ no more than 10/week
+	Slowly get rid of others.
+
+General:
+	(1)At certain point should have very little or now pos.
+	(2)Start at 20 with 10%
+	(3)for every 2 weeks while above 20, add (10% * cur) until (10% * cur) < 10000
+	(4)Start at 12 with 10%
+	(5)for every month while < 15, dispose (10% * total).
+	(6)could be svxy and/or spy put. svxy call is ok at the end of down trend(careful).
